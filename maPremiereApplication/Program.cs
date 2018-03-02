@@ -26,7 +26,7 @@ namespace maPremiereApplication
                 if (hour < 9 || hour > 18)
                     Console.WriteLine(direAurevoir);
                 else
-                    Console.WriteLine(direBonjour);
+                    Console.WriteLine(direBonjour); 
             }
         }
     }
