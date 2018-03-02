@@ -39,6 +39,7 @@ namespace maPremiereApplication
 
             //Exercice 4
             Console.WriteLine(Divisible());
+
         }
         //Exercice 2
         static int Calcul(int a, int b)
