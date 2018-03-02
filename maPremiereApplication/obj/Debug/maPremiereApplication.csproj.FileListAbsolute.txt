@@ -1,0 +1,7 @@
+C:\Users\pigaillard\source\repos\maPremiereApplication\maPremiereApplication\bin\Debug\maPremiereApplication.exe.config
+C:\Users\pigaillard\source\repos\maPremiereApplication\maPremiereApplication\bin\Debug\maPremiereApplication.exe
+C:\Users\pigaillard\source\repos\maPremiereApplication\maPremiereApplication\bin\Debug\maPremiereApplication.pdb
+C:\Users\pigaillard\source\repos\maPremiereApplication\maPremiereApplication\obj\Debug\maPremiereApplication.csprojResolveAssemblyReference.cache
+C:\Users\pigaillard\source\repos\maPremiereApplication\maPremiereApplication\obj\Debug\maPremiereApplication.csproj.CoreCompileInputs.cache
+C:\Users\pigaillard\source\repos\maPremiereApplication\maPremiereApplication\obj\Debug\maPremiereApplication.exe
+C:\Users\pigaillard\source\repos\maPremiereApplication\maPremiereApplication\obj\Debug\maPremiereApplication.pdb
